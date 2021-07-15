@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 😄 My full name : Hansel Matthew
+- 💬 Age : 21
+- 🔭 I’m currently studying at Universitas Indonesia majoring in Electrical Engineering
+- 🌱 I’m interested in : AI, automation, machine learning and robotics
 <!--
 **hnslmp/hnslmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
