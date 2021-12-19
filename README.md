@@ -3,17 +3,11 @@
 - 💬 Age : 21
 - 🔭 I’m currently studying at Universitas Indonesia majoring in Electrical Engineering
 - 🌱 I’m interested in : Artifical Intelligence, automation, machine learning and robotics
-<!--
-**hnslmp/hnslmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AI, automation, machine learning and robotics
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/anthonykid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnslmp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnslmp&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
