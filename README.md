@@ -16,9 +16,16 @@ Hello i am Hansel, an Undergraduate Student majoring in Electrical Engineering a
 </p>
 
 ### Some of my cool projects :
+From Electrical Engineering Major @ Universitas Indonesia
 - <a href="https://github.com/hnslmp/flcin_cmex">Fuzzy Logic Controlled Induction Motor Simulation using Cmex</a>
 - <a href="https://github.com/hnslmp/armrobotcar_ros">Wireless Controller Arm Robot Car using Robot Operating System (ROS)</a>
 - <a href="https://github.com/hnslmp/inka_vehicleperformance">Vehicle Performance Simulator Application for PT Industri Kereta Api</a>
 - <a href="https://github.com/hnslmp/smartparkingFTUI">Smart Parking Space System using MRCNN and telebot</a>
+
+From Apple Developer Academy @ Binus
+- <a href="https://github.com/melvnl/youra">YOURA - your personal music assistant</a>
+
+
+From Java Android Class @ Hacktiv8
 - <a href="https://github.com/hnslmp/FinalProject2_E-Commerce-App">Gharickpedia E-Commerce App</a>
 - <a href="https://github.com/hnslmp/FinalProject4-Bus-Ticketing-App">Gharickloka Online Bus Ticketing App</a>
