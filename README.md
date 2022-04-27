@@ -24,6 +24,8 @@ From Electrical Engineering Major @ Universitas Indonesia
 
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - your personal music assistant</a>
+- <a href="https://github.com/hnslmp/stickit">Stick-It - artificial reality reminder</a>
+
 
 
 From Java Android Class @ Hacktiv8
