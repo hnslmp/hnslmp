@@ -15,9 +15,6 @@ Hello i am Hansel, an Undergraduate Student majoring in Electrical Engineering a
 </a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hnslmp&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnslmp&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)](https://github.com/matthewcalbert/github-readme-stats)
-
 ### Some of my cool projects :
 From Electrical Engineering Major @ Universitas Indonesia
 - <a href="https://github.com/hnslmp/flcin_cmex">Fuzzy Logic Controlled Induction Motor Simulation using Cmex</a>
