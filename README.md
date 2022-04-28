@@ -10,7 +10,7 @@ Hello i am Hansel, an Undergraduate Student majoring in Electrical Engineering a
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/hnslmp">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnslmp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnslmp&hide=JupyterNotebook&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnslmp&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
