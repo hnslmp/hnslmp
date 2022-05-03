@@ -1,6 +1,5 @@
 ### Hi there 👋
-Hello i am Hansel, an Undergraduate Student majoring in Electrical Engineering at Universitas Indonesia, batch 2018. Interested on learning the latest technology, especially in the fields of AI, automation, machine learning and robotics.
-
+Hello i am Hansel,
 - 😄 My full name   : Hansel Matthew
 - 💬 Age            : 22
 - 🔭 School         : Universitas Indonesia majoring in Electrical Engineering
@@ -25,8 +24,6 @@ From Electrical Engineering Major @ Universitas Indonesia
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - your personal music assistant</a>
 - <a href="https://github.com/hnslmp/stickit">StickIt - artificial reality reminder</a>
-
-
 
 From Java Android Class @ Hacktiv8
 - <a href="https://github.com/hnslmp/FinalProject2_E-Commerce-App">Gharickpedia E-Commerce App</a>
