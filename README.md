@@ -4,7 +4,7 @@ Hello i am Hansel,
 - 💬 Age            : 22
 - 🔭 School         : Universitas Indonesia majoring in Electrical Engineering
 - 🌱 Interest       : Artifical Intelligence, automation, machine learning and robotics
-- 🙇🏼 Currently Studying : Action Recognition at CIIS Lab Universitas Indonesia and iOS Development at Apple Developer Academy@BINUS
+- 🙇🏼 Currently Studying : Action Recognition at CIIS Lab Universitas Indonesia & iOS Development at Apple Developer Academy@BINUS
 
 ### Github Statistic
 <p align="left">
