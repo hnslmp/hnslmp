@@ -28,6 +28,8 @@ From Electrical Engineering Major @ Universitas Indonesia
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - your personal music assistant</a>
 - <a href="https://github.com/hnslmp/stickit">StickIt - artificial reality reminder</a>
+- <a href="https://apps.apple.com/id/app/logopedia/id1626268760">Logopedia - Logo Quiz of Indonesia Brands (App Store Published)</a>
+- <a href="https://github.com/hnslmp/qonfide">Qonfide - Mental health journaling app</a>
 
 From Java Android Class @ Hacktiv8
 - <a href="https://github.com/hnslmp/FinalProject2_E-Commerce-App">Gharickpedia E-Commerce App</a>
