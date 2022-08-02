@@ -3,7 +3,7 @@ Hello i am Hansel,
 - 😄 My full name   : Hansel Matthew
 - 🎓 School         : Universitas Indonesia majoring in Electrical Engineering
 - 👨🏼‍💻 Interest       : Artifical Intelligence, automation, machine learning and robotics
-- 🙇 Currently Studying : Action Recognition at CIIS Lab Universitas Indonesia & iOS Development at Apple Developer Academy@BINUS
+- 🙇 Currently      : iOS Pegipegi & Apple Developer Academy@BINUS
 
 <p><a href="https://github.com/hnslmp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/hanselmatthew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
