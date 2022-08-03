@@ -28,9 +28,9 @@ From Electrical Engineering Major @ Universitas Indonesia
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - Your personal music assistant</a>
 - <a href="https://github.com/hnslmp/stickit">StickIt - Artificial reality reminder</a>
-- <a href="https://apps.apple.com/id/app/logopedia/id1626268760">Logopedia - Logo Quiz of Indonesia Brands</a> 
+- <a href="https://github.com/RenzoAlvaroshan/Logo-Quiz-App">Logopedia - Logo Quiz of Indonesia Brands</a> <a href="https://apps.apple.com/id/app/logopedia/id1626268760">(App Store Published)</a>
 - <a href="https://github.com/hnslmp/qonfide">Qonfide - Mental health journaling app</a>
-- <a href="https://github.com/hnslmp/PetrolAcker">PetrolAcker - Automatic fuel tracker using mapkit</a><a href="https://lnkd.in/gkeskkqj">(App Store Published)</a>
+- <a href="https://github.com/hnslmp/PetrolAcker">PetrolAcker - Automatic fuel tracker using mapkit</a> <a href="https://apps.apple.com/id/app/petrolacker/id1636276491">(App Store Published)</a>
 
 
 
