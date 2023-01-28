@@ -1,21 +1,14 @@
 ### Hi there 👋
 Hello i am Hansel,
 - 😄 My full name   : Hansel Matthew
-- 🎓 School         : Universitas Indonesia majoring in Electrical Engineering
-- 👨🏼‍💻 Interest       : Artifical Intelligence, automation, machine learning and robotics
-- 🙇 Currently      : iOS Pegipegi & Apple Developer Academy@BINUS
+- 🎓 School         : University of Indonesia majoring in Electrical Engineering
+- 👨🏼‍💻 Interest       : Programming, artifical intelligence, automation, machine learning, robotics, basically any 
+- 🙇 Currently      : iOS Pegipegi & creating a more accesible world through Comute.app
+- 🍳 Can do         : Robotics using C++, Data stuff using python, Mobile dev using Swift and currently learning flutter
 
 <p><a href="https://github.com/hnslmp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/hanselmatthew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://hnslmp.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/hnslmp">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnslmp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnslmp&hide=Jupyter Notebook&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 ### Some of my cool projects :
@@ -31,8 +24,16 @@ From Apple Developer Academy @ Binus
 - <a href="https://github.com/RenzoAlvaroshan/Logo-Quiz-App">Logopedia - Logo Quiz of Indonesia Brands</a> <a href="https://apps.apple.com/id/app/logopedia/id1626268760">(App Store Published)</a>
 - <a href="https://github.com/hnslmp/qonfide">Qonfide - Mental health journaling app</a>
 - <a href="https://github.com/hnslmp/PetrolAcker">PetrolAcker - Automatic fuel tracker using mapkit</a> <a href="https://apps.apple.com/id/app/petrolacker/id1636276491">(App Store Published)</a>
-- <https://apps.apple.com/app/comute/id6444108882">Comute - Sahabat Perjalanan Teman Tuli, Apple Developer Academy @ BINUS 2022 Spotlighted App (App Store Published)</a>
+- <a href="https://apps.apple.com/app/comute/id6444108882"> Comute - Sahabat Perjalanan Teman Tuli, Apple Developer Academy @ BINUS 2022 Spotlighted App (App Store Published)</a>
 
 From Java Android Class @ Hacktiv8
 - <a href="https://github.com/hnslmp/FinalProject2_E-Commerce-App">Gharickpedia E-Commerce App</a>
 - <a href="https://github.com/hnslmp/FinalProject4-Bus-Ticketing-App">Gharickloka Online Bus Ticketing App</a>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/hnslmp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnslmp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnslmp&hide=Jupyter Notebook&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
