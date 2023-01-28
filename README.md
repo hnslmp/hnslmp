@@ -31,9 +31,7 @@ From Apple Developer Academy @ Binus
 - <a href="https://github.com/RenzoAlvaroshan/Logo-Quiz-App">Logopedia - Logo Quiz of Indonesia Brands</a> <a href="https://apps.apple.com/id/app/logopedia/id1626268760">(App Store Published)</a>
 - <a href="https://github.com/hnslmp/qonfide">Qonfide - Mental health journaling app</a>
 - <a href="https://github.com/hnslmp/PetrolAcker">PetrolAcker - Automatic fuel tracker using mapkit</a> <a href="https://apps.apple.com/id/app/petrolacker/id1636276491">(App Store Published)</a>
-
-
-
+- <https://apps.apple.com/app/comute/id6444108882">Comute - Sahabat Perjalanan Teman Tuli, Apple Developer Academy @ BINUS 2022 Spotlighted App (App Store Published)</a>
 
 From Java Android Class @ Hacktiv8
 - <a href="https://github.com/hnslmp/FinalProject2_E-Commerce-App">Gharickpedia E-Commerce App</a>
