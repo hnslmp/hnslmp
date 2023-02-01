@@ -3,7 +3,7 @@ Hello i am Hansel,
 - 😄 My full name   : Hansel Matthew
 - 🎓 School         : University of Indonesia majoring in Electrical Engineering
 - 👨🏼‍💻 Interest       : Programming, artifical intelligence, automation, machine learning, robotics, basically any 
-- 🙇 Currently      : iOS Pegipegi & creating a more accesible world through Comute.app
+- 🙇 Currently      : Mobile Engineer at Kanggo.id & creating a more accesible world through Comute.app
 - 🍳 Can do         : Robotics using C++, Data stuff using python, Mobile dev using Swift and currently learning flutter
 
 <p><a href="https://github.com/hnslmp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
