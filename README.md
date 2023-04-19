@@ -12,11 +12,9 @@ Hello i am Hansel,
 </p>
 
 ### Some of my cool projects :
-From Electrical Engineering Major @ Universitas Indonesia
-- <a href="https://github.com/hnslmp/flcin_cmex">Fuzzy Logic Controlled Induction Motor Simulation using Cmex</a>
-- <a href="https://github.com/hnslmp/armrobotcar_ros">Wireless Controller Arm Robot Car using Robot Operating System (ROS)</a>
-- <a href="https://github.com/hnslmp/inka_vehicleperformance">Vehicle Performance Simulator Application for PT Industri Kereta Api (INKA)</a>
-- <a href="https://github.com/hnslmp/smartparkingFTUI">Smart Parking Space System using MRCNN and telebot</a>
+
+Indieprojects
+- <a href="https://github.com/hnslmp/cakbur">Cakbur the iPad Game - Indonesia famous traditional field game on iPad</a> <a href="https://github.com/hnslmp/cakbur">(App Store Published)</a>
 
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - Your personal music assistant</a>
@@ -25,6 +23,12 @@ From Apple Developer Academy @ Binus
 - <a href="https://github.com/hnslmp/qonfide">Qonfide - Mental health journaling app</a>
 - <a href="https://github.com/hnslmp/PetrolAcker">PetrolAcker - Automatic fuel tracker using mapkit</a> <a href="https://apps.apple.com/id/app/petrolacker/id1636276491">(App Store Published)</a>
 - <a href="https://apps.apple.com/app/comute/id6444108882"> Comute - Sahabat Perjalanan Teman Tuli, Apple Developer Academy @ BINUS 2022 Spotlighted App (App Store Published)</a>
+
+From Electrical Engineering Major @ Universitas Indonesia
+- <a href="https://github.com/hnslmp/flcin_cmex">Fuzzy Logic Controlled Induction Motor Simulation using Cmex</a>
+- <a href="https://github.com/hnslmp/armrobotcar_ros">Wireless Controller Arm Robot Car using Robot Operating System (ROS)</a>
+- <a href="https://github.com/hnslmp/inka_vehicleperformance">Vehicle Performance Simulator Application for PT Industri Kereta Api (INKA)</a>
+- <a href="https://github.com/hnslmp/smartparkingFTUI">Smart Parking Space System using MRCNN and telebot</a>
 
 From Java Android Class @ Hacktiv8
 - <a href="https://github.com/hnslmp/FinalProject2_E-Commerce-App">Gharickpedia E-Commerce App</a>
