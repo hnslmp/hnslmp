@@ -14,7 +14,7 @@ Hello i am Hansel,
 ### Some of my cool projects :
 
 Indieprojects
-- <a href="https://github.com/hnslmp/cakbur">Cakbur the iPad Game - Indonesia famous traditional field game on iPad</a> <a href="https://github.com/hnslmp/cakbur">(App Store Published)</a>
+- <a href="https://github.com/hnslmp/cakbur">Cakbur the iPad Game - Indonesia famous traditional field game on iPad</a> <a href="https://apps.apple.com/id/app/cakbur-the-game/id6448004085">(App Store Published)</a>
 
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - Your personal music assistant</a> <a href="https://apps.apple.com/id/app/youra/id1619228369">(App Store Published)</a>
