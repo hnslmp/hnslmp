@@ -1,10 +1,10 @@
 ### Hi there 👋
-Hello i am Hansel,
+Hello, i am Hansel,
 - 😄 My full name   : Hansel Matthew
-- 🎓 School         : University of Indonesia majoring in Electrical Engineering
-- 👨🏼‍💻 Interest       : Programming, artifical intelligence, automation, machine learning, robotics, basically any 
-- 🙇 Currently      : iOS Engineer at Mediatropy Digital Agency & creating a more accesible world through Comute.app
-- 🍳 Can do         : Robotics using C++, Data stuff using python, Mobile dev using Swift and currently learning flutter
+- 🎓 School         : EE University of Indonesia, DS University of Sydney
+- 👨🏼‍💻 Interest       : Programming, artificial intelligence, automation, machine learning, robotics, basically any 
+- 🙇 Currently      : iOS Engineer at Mediatropy Digital Agency & creating a more accessible world through Comute.app
+- 🍳 Can do         : Robotics using C++, Data stuff using Python, Mobile dev using Swift and currently learning Flutter
 
 <p><a href="https://github.com/hnslmp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/hanselmatthew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -13,8 +13,8 @@ Hello i am Hansel,
 
 ### Some of my cool projects :
 
-Indieprojects
-- <a href="https://github.com/hnslmp/cakbur">Cakbur the iPad Game - Indonesia famous traditional field game on iPad</a> <a href="https://apps.apple.com/id/app/cakbur-the-game/id6448004085">(App Store Published)</a>
+Indie projects
+- <a href="https://github.com/hnslmp/cakbur">Cakbur the iPad Game - Indonesia's famous traditional field game on iPad</a> <a href="https://apps.apple.com/id/app/cakbur-the-game/id6448004085">(App Store Published)</a>
 
 From Apple Developer Academy @ Binus
 - <a href="https://github.com/melvnl/youra-v2">YOURA - Your personal music assistant</a> <a href="https://apps.apple.com/id/app/youra/id1619228369">(App Store Published)</a>
