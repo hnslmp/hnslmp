@@ -4,7 +4,7 @@ Hello, i am Hansel,
 - 🎓 School         : EE University of Indonesia, DS University of Sydney
 - 👨🏼‍💻 Interest       : Programming, artificial intelligence, automation, machine learning, robotics, basically any 
 - 🙇 Currently      : iOS Engineer at Mediatropy Digital Agency & creating a more accessible world through Comute.app
-- 🍳 Can do         : Robotics using C++, Data stuff using Python, Mobile dev using Swift and currently learning Flutter
+- 🍳 Can do         : Robotics using C++, Data stuff using Python, iOS dev using Swift. Currently learning backend with Node and all other data stuff through my master's degree.
 
 <p><a href="https://github.com/hnslmp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/hanselmatthew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
